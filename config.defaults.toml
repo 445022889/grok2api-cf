@@ -40,10 +40,10 @@ assets_delete_batch_size = 10
 admin_assets_batch_size = 10
 
 [register]
-worker_domain = ""
-email_domain = ""
-admin_password = ""
-yescaptcha_key = ""
+worker_domain = "111111.com"
+email_domain = "111111.com"
+admin_password = "sfasdfsadf"
+yescaptcha_key = "asdfasdfasdf"
 solver_url = "http://127.0.0.1:5072"
 # 推荐 camoufox（对 accounts.x.ai 的 Turnstile 成功率更高）；若环境未安装会自动回退到 chromium。
 solver_browser_type = "camoufox"
